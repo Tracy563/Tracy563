@@ -11,7 +11,7 @@
 ---
 
 ### 💕 About Me
-- 🌸 Learning: `PostgreSQL` & Databases (I added grade & role to employee table!)
+- 🌸 Learning: `PostgreSQL` & Databases
 - 💖 I love making code pretty & pink
 - 🎀 Goal: Database Queen 👑
 - ✨ From Kericho, Kenya 🇰🇪
@@ -21,11 +21,13 @@
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-FFC0CB?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-FF8DA1?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ### 🌷 My Projects
-- 📚 **Database** - shamon42 employee DB with grade & role column 💼
+- 📚 **Database** - shamon42 employee DB 💼
+- ☕ **Java** - My Java journey starting soon!
 - 💖 This profile repo - where the magic happens!
 
 ---
